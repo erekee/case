@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "olegorex",
+  "author": "ERA",
   "license": "ISC",
   "dependencies": {
     "nightwatch": "^1.0.19"
